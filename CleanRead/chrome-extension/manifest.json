@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "CleanRead - Clean Reading",
+  "version": "1.0",
+  "description": "Transforma qualquer artigo caótico em uma leitura limpa e focada.",
+  "permissions": [
+    "activeTab", 
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
